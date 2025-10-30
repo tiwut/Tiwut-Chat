@@ -1,0 +1,1 @@
+sudo apt-get update && sudo apt update && sudo apt install python3-pyqt6 python3-requests -y
